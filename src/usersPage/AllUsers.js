@@ -61,11 +61,11 @@ flex-wrap:wrap;
 background-color:#F7F7F7;
 }
 .User-list{
-  flex:1 2 260px;
+  flex:1 2 250px;
   text-align:center;
   display:flex;
   flex-direction:column ;
-  padding:0.5rem 0.5rem ;
+  padding:0.5rem 1rem ;
   position:relative;
   text-decoration:none;
   
