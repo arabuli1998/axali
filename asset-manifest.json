@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axali/static/css/main.abd64e84.css",
+    "main.js": "/axali/static/js/main.32fdc0f0.js",
+    "index.html": "/axali/index.html",
+    "main.abd64e84.css.map": "/axali/static/css/main.abd64e84.css.map",
+    "main.32fdc0f0.js.map": "/axali/static/js/main.32fdc0f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.32fdc0f0.js"
+  ]
+}
